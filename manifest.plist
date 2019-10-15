@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>tv.yilan.gaoshou.iphone</string>
+				<string>com.fuerdai.phonelive.qqc.com.new</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.2.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
